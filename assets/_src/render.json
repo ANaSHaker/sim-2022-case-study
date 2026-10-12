@@ -1,0 +1,86 @@
+{
+ "outDir": "..",
+ "brand": {
+  "name": "SIM 2022",
+  "tagline": "Official companion app for the Saudi International Maritime Forum 2022.",
+  "accent": "#2F7DD1",
+  "accent2": "#38BDF8",
+  "logo": "D:/shaker-github/_store/com.app.sim.sim/logo_crop.png"
+ },
+ "images": [
+  {
+   "type": "banner",
+   "file": "banner.png",
+   "kicker": "Case Study · Events · Saudi Arabia",
+   "screens": [
+    "D:/shaker-github/_store/com.app.sim.sim/sim_01.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_02.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_04.jpg"
+   ],
+   "devices": [
+    "android",
+    "android",
+    "android"
+   ],
+   "subtitle": "Official event app for the Saudi International Maritime Forum, organised by the Royal Saudi Naval Forces.",
+   "chips": [
+    "Flutter",
+    "Bloc + GetX",
+    "Firebase",
+    "Hive"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "screens-1.png",
+   "title": "Forum guide — home, about, agenda, sponsors, media",
+   "device": "android",
+   "cols": 5,
+   "screens": [
+    "D:/shaker-github/_store/com.app.sim.sim/sim_02.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_04.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_06.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_09.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_12.jpg"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "screens-2.png",
+   "title": "Photos, RSNF, light & dark themes, settings, notes",
+   "device": "android",
+   "cols": 5,
+   "screens": [
+    "D:/shaker-github/_store/com.app.sim.sim/sim_13.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_16.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_11.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_18.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_19.jpg"
+   ]
+  },
+  {
+   "type": "feature",
+   "file": "feature-hub.png",
+   "kicker": "SIGNATURE FEATURE",
+   "title": "The whole forum in one pocket hub",
+   "width": 1640,
+   "height": 820,
+   "css": ".android{--w:290px!important}.title{font-size:52px!important}",
+   "points": [
+    "Three-day agenda with session times and speakers",
+    "Speakers, delegations, sponsors and exhibitors",
+    "Floor plans, show guide and venue directions",
+    "Live stream, news, photo and video centre",
+    "Favourites and personal notes saved offline"
+   ],
+   "screens": [
+    "D:/shaker-github/_store/com.app.sim.sim/sim_02.jpg",
+    "D:/shaker-github/_store/com.app.sim.sim/sim_06.jpg"
+   ],
+   "devices": [
+    "android",
+    "android"
+   ]
+  }
+ ]
+}

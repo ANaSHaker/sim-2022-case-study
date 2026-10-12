@@ -1,0 +1,17 @@
+{
+  "name": "sim-2022-case-study",
+  "description": "Case study: SIM 2022, the official Flutter app for the Saudi International Maritime Forum by the Royal Saudi Naval Forces. Agenda, speakers, exhibitors, live stream, offline favourites. An event in one pocket hub.",
+  "topics": [
+    "flutter",
+    "case-study",
+    "event-app",
+    "conference",
+    "bloc",
+    "getx",
+    "firebase",
+    "hive",
+    "google-maps",
+    "saudi-arabia"
+  ],
+  "homepage": null
+}
